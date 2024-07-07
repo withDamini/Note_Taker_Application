@@ -1,5 +1,5 @@
 package com.servlets;
-
+import javax.servlet.http.HttpServlet;
 import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
